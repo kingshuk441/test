@@ -1,2 +1,3 @@
 const {x,obj}=require("./script")
-console.log(x,obj)
+console.log(x)
+console.log(obj)
